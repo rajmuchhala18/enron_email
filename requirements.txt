@@ -1,0 +1,7 @@
+python
+transformers
+vaderSentiment
+spacy
+nltk
+Sanic
+gensim
